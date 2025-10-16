@@ -2,7 +2,7 @@ baseURL: "https://almahfooz.github.io/myblog/"
 languageCode: en-us
 title: Mahfooz Ahmed
 theme: PaperMod
-enableGitInfo: false
+draft: false
 
 # Pagination settings
 pagination:
