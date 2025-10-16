@@ -2,7 +2,6 @@ baseURL: ""
 languageCode: en-us
 title: Mahfooz Ahmed
 theme: PaperMod
-enableGitInfo: true
 
 # Pagination settings
 pagination:
