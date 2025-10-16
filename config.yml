@@ -27,7 +27,7 @@ params:
   analytics:
     plausible:
       enable: true
-      domain: "alenabraham.me"
+      domain: "almahfooz.github.io/myblog"
       
   mainSections: ["posts"]
   dailySections: ["daily"]
