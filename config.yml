@@ -1,6 +1,6 @@
-baseURL: "https://alenabraham.me/"
+baseURL: "https://almahfooz.github.io/"
 languageCode: en-us
-title: Alen Abraham
+title: Mahfooz Ahmed
 theme: PaperMod
 enableGitInfo: true
 
@@ -15,11 +15,11 @@ taxonomies:
 
 params:
   #env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "Alen Abraham"
-  description: "Alen Abraham's personal website"
-  keywords: [Alen, Abraham, Blog, Portfolio, Resume]
-  # author: "Alen Abraham"
-  DateFormat: "January 2, 2006"
+  title: "Al-Mahfooz Ahmed"
+  description: "Al-Mahfooz's Blog"
+  keywords: [Mahfooz, Ahmed, Blog, Portfolio, Resume]
+  # author: "Mahfooz Ahmed"
+  DateFormat: "January 2, 2025"
   defaultTheme: dark # dark, light, auto
   disableThemeToggle: false
 
